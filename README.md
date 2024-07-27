@@ -4,12 +4,7 @@ This project showcases animations created using the Revideo library. It includes
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/nickoo20/revideo-project/tree/main/output/project.mp4)
-Or
-<video width="600" controls>
-  <source src="https://github.com/nickoo20/revideo-project/tree/main/output/project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](https://github.com/nickoo20/revideo-project/blob/main/public/project.mp4)
 
 
 ## Table of Contents
