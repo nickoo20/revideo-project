@@ -4,7 +4,7 @@ This project showcases animations created using the Revideo library. It includes
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/nickoo20/https://github.com/nickoo20/revideo-project.git/output/project.mp4)
+[Watch the demo video](https://github.com/nickoo20/revideo-project.git/output/project.mp4)
 
 
 ## Table of Contents
