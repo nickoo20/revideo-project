@@ -3,8 +3,11 @@
 This project showcases animations created using the Revideo library. It includes various scenes demonstrating different animation techniques, including a rocket launch sequence, text animations, and a skills showcase.
 
 ## Demo Video
+// [Watch the demo video](https://github.com/nickoo20/revideo-project/tree/main/output/project.mp4)
+Download the file by clicking on raw.
 
-[Watch the demo video](https://github.com/nickoo20/revideo-project/blob/main/public/project.mp4)
+
+https://github.com/user-attachments/assets/9f078620-bd01-4ab0-8b78-e84e413763f7
 
 
 ## Table of Contents
@@ -62,5 +65,5 @@ Webpack: Used for bundling the project.
 React: Used for structuring and managing the components.
 CSS: Used for styling the animations and components.
 
-GitHub: nickoo20
-LinkedIn: Niyati Gupta
+[LinkedIn](https://www.linkedin.com/in/niyati20/)
+[Github](https://www.github.com/nickoo20/)
